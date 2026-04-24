@@ -1,0 +1,2 @@
+# This file is used by ComfyUI-Manager to install Python dependencies.
+# Currently, all required modules (torch, comfy, folder_paths) are provided by the base ComfyUI installation.
